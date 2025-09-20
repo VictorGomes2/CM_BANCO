@@ -1,0 +1,8 @@
+Flask
+PyJWT
+pandas
+flask-cors
+Flask-Migrate
+Flask-SQLAlchemy
+Werkzeug
+psycopg2-binary  # para a conexão com o PostgreSQL
